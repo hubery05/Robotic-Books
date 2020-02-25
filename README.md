@@ -1,2 +1,2 @@
 # Robotic-Books
-BOOKS: Python, ROS, path planning, C++
+BOOKS: ROS, SLAM, Navigation, path planning, C++, Python
